@@ -1,6 +1,6 @@
 <div align="center">
-
-# 🚀 RANKERGENT
+  <img src="https://raw.githubusercontent.com/rankergent/.github/main/assets/rankergent-banner.png" alt="Rankergent Banner" width="100%" />
+</div>
 ### ⚡ *The AI Engine Optimization (AEO) & Search Intelligence Stack*
 
 > **Rank Higher on Google · Get Cited by ChatGPT, Gemini & Perplexity**
