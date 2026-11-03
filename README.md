@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🚀 RANKERGENT
-
 ### ⚡ *The AI Engine Optimization (AEO) & Search Intelligence Stack*
 
 > **Rank Higher on Google · Get Cited by ChatGPT, Gemini & Perplexity**
