@@ -102,6 +102,18 @@
 
 ---
 
+## ⚡ Infrastructure & Real-Time Performance Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Engine-Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI_Engine-OpenAI_GPT4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Next.js](https://img.shields.io/badge/Frontend-Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
 <div align="center">
 
 ### 🎯 Ready to Own Both Search Engines & Generative AI?
