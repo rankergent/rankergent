@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="80" alt="Logo" />
+
 # 🚀 RANKERGENT
 ### *Rank higher. Get cited by AI.*
 
@@ -7,6 +9,7 @@
 
 [![Start Free Trial](https://img.shields.io/badge/Start_Free_Trial-No_Credit_Card_Required-FF9900?style=for-the-badge&logo=rocket&logoColor=white)](https://rankergent.com/signup)
 [![Official Website](https://img.shields.io/badge/Official_Website-rankergent.com-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rankergent.com/)
+[![Platform Status](https://img.shields.io/badge/Status-100%25_Operational-00875A?style=for-the-badge&logo=statuspage&logoColor=white)](https://rankergent.com/)
 
 ---
 
@@ -28,55 +31,43 @@
 <details open>
 <summary><b>🔍 1. AI Website Audit</b></summary>
 <br />
-
 Automatically crawl your site in 30 seconds to uncover missing meta tags, broken link chains, thin content, and schema gaps with instant fix recommendations.
-* 🔗 **[Explore AI Website Audit](https://rankergent.com/features)**
-
+* 🔗 <b><a href="https://rankergent.com/features">Explore AI Website Audit</a></b>
 </details>
 
 <details open>
 <summary><b>🤖 2. AEO & GEO (AI Visibility Monitor)</b></summary>
 <br />
-
-Track whether **ChatGPT, Perplexity, and Gemini** cite your brand in direct conversational search results and analyze sentiment across AI search engines.
-* 🔗 **[Explore AI Visibility Monitor](https://rankergent.com/features)**
-
+Track whether <b>ChatGPT, Perplexity, and Gemini</b> cite your brand in direct conversational search results and analyze sentiment across AI search engines.
+* 🔗 <b><a href="https://rankergent.com/features">Explore AI Visibility Monitor</a></b>
 </details>
 
 <details open>
 <summary><b>📈 3. Keyword Rank Tracker</b></summary>
 <br />
-
 Monitor daily rank snapshots across 50+ countries with hyper-targeted regional breakdowns and competitive SERP intelligence.
-* 🔗 **[Explore Rank Tracker](https://rankergent.com/features)**
-
+* 🔗 <b><a href="https://rankergent.com/features">Explore Rank Tracker</a></b>
 </details>
 
 <details open>
 <summary><b>⚔️ 4. Competitor Gap Analysis</b></summary>
 <br />
-
 Instantly identify missing competitor keywords, content opportunities, and backlink strategies to outrank industry rivals.
-* 🔗 **[Explore Competitor Gap Analysis](https://rankergent.com/features)**
-
+* 🔗 <b><a href="https://rankergent.com/features">Explore Competitor Gap Analysis</a></b>
 </details>
 
 <details open>
 <summary><b>✍️ 5. AI Content Studio</b></summary>
 <br />
-
 Build SERP-backed briefs, topic clusters, and fully optimized long-form drafts ready for publication.
-* 🔗 **[Explore AI Content Studio](https://rankergent.com/features)**
-
+* 🔗 <b><a href="https://rankergent.com/features">Explore AI Content Studio</a></b>
 </details>
 
 <details open>
 <summary><b>🚨 6. Action Alert Engine</b></summary>
 <br />
-
 Receive real-time automated notifications on technical errors, keyword rank drops, and AI citation index updates.
-* 🔗 **[Explore Action Alerts](https://rankergent.com/features)**
-
+* 🔗 <b><a href="https://rankergent.com/features">Explore Action Alerts</a></b>
 </details>
 
 ---
@@ -121,6 +112,10 @@ Receive real-time automated notifications on technical errors, keyword rank drop
 <a href="https://rankergent.com/"><img src="https://img.shields.io/badge/Visit_Rankergent-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website" /></a>
 
 <br /><br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rankergent&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 *© Rankergent. All rights reserved.*
 
