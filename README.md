@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="80" alt="Logo" />
-
 # 🚀 RANKERGENT
 ### *Rank higher. Get cited by AI.*
 
@@ -31,43 +29,55 @@
 <details open>
 <summary><b>🔍 1. AI Website Audit</b></summary>
 <br />
+
 Automatically crawl your site in 30 seconds to uncover missing meta tags, broken link chains, thin content, and schema gaps with instant fix recommendations.
-* 🔗 <b><a href="https://rankergent.com/features">Explore AI Website Audit</a></b>
+* 🔗 **[Explore AI Website Audit](https://rankergent.com/features)**
+
 </details>
 
 <details open>
 <summary><b>🤖 2. AEO & GEO (AI Visibility Monitor)</b></summary>
 <br />
-Track whether <b>ChatGPT, Perplexity, and Gemini</b> cite your brand in direct conversational search results and analyze sentiment across AI search engines.
-* 🔗 <b><a href="https://rankergent.com/features">Explore AI Visibility Monitor</a></b>
+
+Track whether **ChatGPT, Perplexity, and Gemini** cite your brand in direct conversational search results and analyze sentiment across AI search engines.
+* 🔗 **[Explore AI Visibility Monitor](https://rankergent.com/features)**
+
 </details>
 
 <details open>
 <summary><b>📈 3. Keyword Rank Tracker</b></summary>
 <br />
+
 Monitor daily rank snapshots across 50+ countries with hyper-targeted regional breakdowns and competitive SERP intelligence.
-* 🔗 <b><a href="https://rankergent.com/features">Explore Rank Tracker</a></b>
+* 🔗 **[Explore Rank Tracker](https://rankergent.com/features)**
+
 </details>
 
 <details open>
 <summary><b>⚔️ 4. Competitor Gap Analysis</b></summary>
 <br />
+
 Instantly identify missing competitor keywords, content opportunities, and backlink strategies to outrank industry rivals.
-* 🔗 <b><a href="https://rankergent.com/features">Explore Competitor Gap Analysis</a></b>
+* 🔗 **[Explore Competitor Gap Analysis](https://rankergent.com/features)**
+
 </details>
 
 <details open>
 <summary><b>✍️ 5. AI Content Studio</b></summary>
 <br />
+
 Build SERP-backed briefs, topic clusters, and fully optimized long-form drafts ready for publication.
-* 🔗 <b><a href="https://rankergent.com/features">Explore AI Content Studio</a></b>
+* 🔗 **[Explore AI Content Studio](https://rankergent.com/features)**
+
 </details>
 
 <details open>
 <summary><b>🚨 6. Action Alert Engine</b></summary>
 <br />
+
 Receive real-time automated notifications on technical errors, keyword rank drops, and AI citation index updates.
-* 🔗 <b><a href="https://rankergent.com/features">Explore Action Alerts</a></b>
+* 🔗 **[Explore Action Alerts](https://rankergent.com/features)**
+
 </details>
 
 ---
