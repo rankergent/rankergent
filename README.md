@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=600&lines=Ranker+gent+on+Google;Get+Cited+by+ChatGPT%2C+Gemini+%26+Perplexity;30-Second+AI-Powered+Site+Audits;The+Next-Gen+AEO+%26+GEO+Engine" alt="Rankergent Dynamic Banner" />
+# 🚀 RANKERGENT
+### ⚡ *The AI Engine Optimization (AEO) & Search Intelligence Stack*
 
-<br /><br />
+> **Rank Higher on Google · Get Cited by ChatGPT, Gemini & Perplexity**
 
 [![Official Website](https://img.shields.io/badge/🌐_Official_Platform-rankergent.com-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rankergent.com/)
 [![Start Free Trial](https://img.shields.io/badge/🚀_Start_Free_Trial-No_Card_Required-00875A?style=for-the-badge&logo=rocket&logoColor=white)](https://rankergent.com/signup)
@@ -99,18 +100,6 @@
 | **Scale** | Enterprise Teams | Unlimited Workspaces • 1,000+ Keywords • Custom API | **$149 / mo** |
 
 👉 **[Compare All Pricing Plans & Upgrade Options](https://rankergent.com/pricing)**
-
----
-
-## ⚡ Infrastructure & Real-Time Performance Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Engine-Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI_Engine-OpenAI_GPT4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Next.js](https://img.shields.io/badge/Frontend-Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
