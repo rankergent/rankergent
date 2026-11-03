@@ -1,9 +1,8 @@
 <div align="center">
 
-# 🚀 RANKERGENT
-### ⚡ *The AI Engine Optimization (AEO) & Search Intelligence Stack*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0052CC&center=true&vCenter=true&width=600&lines=Ranker+gent+on+Google;Get+Cited+by+ChatGPT%2C+Gemini+%26+Perplexity;30-Second+AI-Powered+Site+Audits;The+Next-Gen+AEO+%26+GEO+Engine" alt="Rankergent Dynamic Banner" />
 
-> **Rank Higher on Google · Get Cited by ChatGPT, Gemini & Perplexity**
+<br /><br />
 
 [![Official Website](https://img.shields.io/badge/🌐_Official_Platform-rankergent.com-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rankergent.com/)
 [![Start Free Trial](https://img.shields.io/badge/🚀_Start_Free_Trial-No_Card_Required-00875A?style=for-the-badge&logo=rocket&logoColor=white)](https://rankergent.com/signup)
